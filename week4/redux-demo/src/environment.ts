@@ -3,7 +3,7 @@ const dev = {
 }
 
 const prod = {
-  context: 'ec2-54-167-136-172.compute-1.amazonaws.com:3001/'
+  context: 'http://ec2-54-167-136-172.compute-1.amazonaws.com:3001/'
   
 }
 
